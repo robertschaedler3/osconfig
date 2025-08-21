@@ -1,4 +1,22 @@
 {
   "$schema": "https://aka.ms/osconfig/document/schema",
-  "resources": []
+  "resources": [
+    {
+      "name": "ConfigureSystemGuardLaunch",
+      "type": "Microsoft.Windows/CSP",
+      "properties": {
+        "name": "./Vendor/MSFT/Policy",
+        "path": {
+          "get": "Result/DeviceGuard/ConfigureSystemGuardLaunch",
+          "set": "Config/DeviceGuard/ConfigureSystemGuardLaunch"
+        },
+        "schema": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 2
+        },
+        "value": 1
+      }
+    }
+  ]
 }
