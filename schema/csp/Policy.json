@@ -1,5 +1,4 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "if": {
     "properties": {
       "name": {
@@ -1503,14 +1502,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 2
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 2
               }
             },
             "value": {
@@ -1540,14 +1535,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1577,14 +1568,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 2
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 2
               }
             },
             "value": {
@@ -1614,14 +1601,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1651,14 +1634,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "string",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1688,14 +1667,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1725,14 +1700,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1762,14 +1733,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1799,14 +1766,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1836,14 +1799,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 1,
-                    "maximum": 15
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 15
               }
             },
             "value": {
@@ -1873,14 +1832,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1910,14 +1865,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -1947,14 +1898,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -1984,14 +1931,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2021,14 +1964,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2058,21 +1997,17 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "metatype": "base64",
-                    "oneOf": [
-                      {
-                        "const": "MDA="
-                      },
-                      {
-                        "const": "MQ=="
-                      }
-                    ]
+              "const": {
+                "type": "string",
+                "metatype": "base64",
+                "oneOf": [
+                  {
+                    "const": "MDA="
+                  },
+                  {
+                    "const": "MQ=="
                   }
-                }
+                ]
               }
             },
             "value": {
@@ -2109,14 +2044,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2146,14 +2077,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2183,14 +2110,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2220,14 +2143,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2257,14 +2176,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2294,14 +2209,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2331,14 +2242,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2368,14 +2275,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2405,14 +2308,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2442,14 +2341,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2479,14 +2374,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2516,14 +2407,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2553,14 +2440,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2590,14 +2473,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2627,14 +2506,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2664,14 +2539,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2701,14 +2572,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2738,14 +2605,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2775,14 +2638,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2812,14 +2671,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2849,14 +2704,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2886,14 +2737,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2923,14 +2770,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 3
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 3
               }
             },
             "value": {
@@ -2960,14 +2803,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 5
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 5
               }
             },
             "value": {
@@ -2997,14 +2836,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3034,14 +2869,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3071,14 +2902,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3108,16 +2935,12 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "enum": [
-                      1,
-                      3
-                    ]
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "enum": [
+                  1,
+                  3
+                ]
               }
             },
             "value": {
@@ -3149,23 +2972,19 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "allOf": [
-                      {
-                        "pattern": "ResetAccountLockoutCounterAfter:[1][5-9]|[2-9]\\d|[1-9]\\d{2,}"
-                      },
-                      {
-                        "pattern": "AccountLockoutDuration:[1][5-9]|[2-9]\\d|[1-9]\\d{2,}"
-                      },
-                      {
-                        "pattern": "AccountLockoutThreshold:[1-3]"
-                      }
-                    ]
+              "const": {
+                "type": "string",
+                "allOf": [
+                  {
+                    "pattern": "ResetAccountLockoutCounterAfter:[1][5-9]|[2-9]\\d|[1-9]\\d{2,}"
+                  },
+                  {
+                    "pattern": "AccountLockoutDuration:[1][5-9]|[2-9]\\d|[1-9]\\d{2,}"
+                  },
+                  {
+                    "pattern": "AccountLockoutThreshold:[1-3]"
                   }
-                }
+                ]
               }
             },
             "value": {
@@ -3204,14 +3023,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3241,14 +3056,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 1,
-                    "maximum": 999
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 999
               }
             },
             "value": {
@@ -3278,14 +3089,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 7,
-                    "maximum": 99
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 7,
+                "maximum": 99
               }
             },
             "value": {
@@ -3315,14 +3122,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 1,
-                    "maximum": 998
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 998
               }
             },
             "value": {
@@ -3352,14 +3155,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3389,14 +3188,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 24
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 24
               }
             },
             "value": {
@@ -3426,14 +3221,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3463,14 +3254,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3500,14 +3287,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3537,14 +3320,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3574,14 +3353,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3611,14 +3386,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3648,14 +3419,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3685,14 +3452,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3722,14 +3485,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3759,14 +3518,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 2
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 2
               }
             },
             "value": {
@@ -3796,14 +3551,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3833,14 +3584,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3870,14 +3617,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3907,14 +3650,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3944,14 +3683,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -3981,14 +3716,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4018,14 +3749,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4055,14 +3782,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4092,15 +3815,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -4133,14 +3852,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 5
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 5
               }
             },
             "value": {
@@ -4170,14 +3885,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4207,14 +3918,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 2
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 2
               }
             },
             "value": {
@@ -4244,14 +3951,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4281,14 +3984,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4318,14 +4017,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 900
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 900
               }
             },
             "value": {
@@ -4355,14 +4050,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 30,
-                    "maximum": 10000
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 30,
+                "maximum": 10000
               }
             },
             "value": {
@@ -4392,12 +4083,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer"
-                  }
-                }
+              "const": {
+                "type": "integer"
               }
             },
             "value": {
@@ -4425,12 +4112,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer"
-                  }
-                }
+              "const": {
+                "type": "integer"
               }
             },
             "value": {
@@ -4458,14 +4141,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4495,14 +4174,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4532,23 +4207,19 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "oneOf": [
-                      {
-                        "const": "1.0"
-                      },
-                      {
-                        "const": "1.1"
-                      },
-                      {
-                        "const": "1.2"
-                      }
-                    ]
+              "const": {
+                "type": "string",
+                "oneOf": [
+                  {
+                    "const": "1.0"
+                  },
+                  {
+                    "const": "1.1"
+                  },
+                  {
+                    "const": "1.2"
                   }
-                }
+                ]
               }
             },
             "value": {
@@ -4587,23 +4258,19 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "oneOf": [
-                      {
-                        "const": "1.0"
-                      },
-                      {
-                        "const": "1.1"
-                      },
-                      {
-                        "const": "1.2"
-                      }
-                    ]
+              "const": {
+                "type": "string",
+                "oneOf": [
+                  {
+                    "const": "1.0"
+                  },
+                  {
+                    "const": "1.1"
+                  },
+                  {
+                    "const": "1.2"
                   }
-                }
+                ]
               }
             },
             "value": {
@@ -4642,26 +4309,22 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "oneOf": [
-                      {
-                        "const": "1.1"
-                      },
-                      {
-                        "const": "1.1"
-                      },
-                      {
-                        "const": "1.2"
-                      },
-                      {
-                        "const": "1.3"
-                      }
-                    ]
+              "const": {
+                "type": "string",
+                "oneOf": [
+                  {
+                    "const": "1.1"
+                  },
+                  {
+                    "const": "1.1"
+                  },
+                  {
+                    "const": "1.2"
+                  },
+                  {
+                    "const": "1.3"
                   }
-                }
+                ]
               }
             },
             "value": {
@@ -4703,26 +4366,22 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "oneOf": [
-                      {
-                        "const": "1.1"
-                      },
-                      {
-                        "const": "1.1"
-                      },
-                      {
-                        "const": "1.2"
-                      },
-                      {
-                        "const": "1.3"
-                      }
-                    ]
+              "const": {
+                "type": "string",
+                "oneOf": [
+                  {
+                    "const": "1.1"
+                  },
+                  {
+                    "const": "1.1"
+                  },
+                  {
+                    "const": "1.2"
+                  },
+                  {
+                    "const": "1.3"
                   }
-                }
+                ]
               }
             },
             "value": {
@@ -4764,14 +4423,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4801,14 +4456,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4838,14 +4489,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 5,
-                    "maximum": 14
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 5,
+                "maximum": 14
               }
             },
             "value": {
@@ -4875,14 +4522,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -4912,16 +4555,12 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "metatype": "multistring",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "metatype": "multistring",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -4955,16 +4594,12 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "metatype": "multistring",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "metatype": "multistring",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -4998,12 +4633,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -5031,12 +4662,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -5064,14 +4691,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5101,14 +4724,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5138,14 +4757,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5175,12 +4790,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -5208,14 +4819,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5245,14 +4852,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5282,14 +4885,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5319,16 +4918,12 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "metatype": "multistring",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "metatype": "multistring",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5362,14 +4957,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5399,14 +4990,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5436,14 +5023,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string",
-                    "minimum": 1,
-                    "maximum": 2
-                  }
-                }
+              "const": {
+                "type": "string",
+                "minimum": 1,
+                "maximum": 2
               }
             },
             "value": {
@@ -5473,14 +5056,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5510,14 +5089,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5547,14 +5122,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -5584,12 +5155,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -5617,15 +5184,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5658,12 +5221,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -5691,15 +5250,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5732,15 +5287,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5773,15 +5324,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5814,15 +5361,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5855,15 +5398,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5896,15 +5435,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5937,15 +5472,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -5978,15 +5509,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6019,15 +5546,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6060,12 +5583,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -6093,15 +5612,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6134,12 +5649,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -6167,15 +5678,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6208,15 +5715,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6249,15 +5752,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6290,15 +5789,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6331,15 +5826,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6372,15 +5863,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6413,12 +5900,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -6446,15 +5929,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6487,15 +5966,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6528,15 +6003,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6569,15 +6040,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6610,12 +6077,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -6643,15 +6106,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6684,15 +6143,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6725,15 +6180,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6766,12 +6217,8 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "string"
-                  }
-                }
+              "const": {
+                "type": "string"
               }
             },
             "value": {
@@ -6799,15 +6246,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6840,15 +6283,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6881,15 +6320,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6922,15 +6357,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -6963,15 +6394,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -7004,15 +6431,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -7045,15 +6468,11 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "array",
-                    "delimiter": ",",
-                    "items": {
-                      "type": "string"
-                    }
-                  }
+              "const": {
+                "type": "array",
+                "delimiter": ",",
+                "items": {
+                  "type": "string"
                 }
               }
             },
@@ -7086,14 +6505,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 0,
-                    "maximum": 1
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 1
               }
             },
             "value": {
@@ -7123,14 +6538,10 @@
         "then": {
           "properties": {
             "schema": {
-              "properties": {
-                "schema": {
-                  "const": {
-                    "type": "integer",
-                    "minimum": 1,
-                    "maximum": 2
-                  }
-                }
+              "const": {
+                "type": "integer",
+                "minimum": 1,
+                "maximum": 2
               }
             },
             "value": {
