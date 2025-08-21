@@ -10,7 +10,9 @@
           "get": "Result/DeviceGuard/ConfigureSystemGuardLaunch",
           "set": "Config/DeviceGuard/ConfigureSystemGuardLaunch"
         },
-        "type": "integer",
+        "schema": {
+          "type": "integer"
+        },
         "value": 1
       }
     },
@@ -23,7 +25,9 @@
           "get": "Result/DeviceGuard/EnableVirtualizationBasedSecurity",
           "set": "Config/DeviceGuard/EnableVirtualizationBasedSecurity"
         },
-        "type": "integer",
+        "schema": {
+          "type": "integer"
+        },
         "value": 1
       }
     },
@@ -36,7 +40,9 @@
           "get": "Result/VirtualizationBasedTechnology/HypervisorEnforcedCodeIntegrity",
           "set": "Config/VirtualizationBasedTechnology/HypervisorEnforcedCodeIntegrity"
         },
-        "type": "integer",
+        "schema": {
+          "type": "integer"
+        },
         "value": 2
       }
     }

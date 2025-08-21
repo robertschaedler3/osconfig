@@ -1,22 +1,14 @@
 {
-  "$schema": "../schema/.document.json",
+  "$schema": "https://aka.ms/osconfig/document/schema",
   "resources": [
     {
       "type": "Microsoft.Windows/CSP",
       "properties": {
         "name": "./Vendor/MSFT/ApplicationControl",
-        "path": "Policies/{PolicyId}/PolicyInfo/IsBasePolicy",
+        "path": "Policies/{PolicyId}/PolicyInfo/FriendlyName",
         "schema": {
-          "type": "boolean"
+          "type": "string"
         }
-      }
-    },
-    {
-      "name": "",
-      "type": "Microsoft.Windows/CSP",
-      "properties": {
-        "name": "./Vendor/MSFT/Cool",
-        "path": "DoSomethingAmazing"
       }
     }
   ]
