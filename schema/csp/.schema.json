@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "allOf": [
+    {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "path": {
+          "oneOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "get": {
+                  "type": "string"
+                },
+                "set": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "get",
+                "set"
+              ]
+            }
+          ]
+        },
+        "schema": {
+          "$ref": "http://json-schema.org/draft-07/schema#"
+        }
+      },
+      "required": [
+        "name",
+        "path",
+        "schema"
+      ]
+    },
+    {
+      "oneOf": [
+        {
+          "$ref": "ApplicationControl.json"
+        },
+        {
+          "$ref": "Policy.json"
+        }
+      ]
+    }
+  ]
+}

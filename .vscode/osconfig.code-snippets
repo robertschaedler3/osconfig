@@ -1,7 +1,7 @@
 {
     "Microsoft.OSConfig/Audit": {
 		"scope": "json",
-		"prefix": "Microsoft.OSConfig/Audit",
+		"prefix": ["audit", "Microsoft.OSConfig/Audit"],
 		"body": [
 			"{",
 			"\t\"type\": \"Microsoft.OSConfig/Audit\",",
@@ -16,7 +16,7 @@
 	},
 	"Microsoft.Windows/CSP": {
 		"scope": "json",
-		"prefix": "Microsoft.Windows/CSP",
+		"prefix": ["CSP", "Microsoft.Windows/CSP"],
 		"body": [
 			"{",
 			"\t\"name\": \"$1\",",
@@ -31,7 +31,7 @@
 	},
 	"Microsoft.Windows/Registry": {
 		"scope": "json",
-		"prefix": "Microsoft.Windows/Registry",
+		"prefix": ["registry", "Windows Registry", "Microsoft.Windows/Registry"],
 		"body": [
 			"{",
 			"\t\"name\": \"$1\",",
@@ -46,7 +46,7 @@
 	},
 	"Microsoft.Windows/Include": {
 		"scope": "json",
-		"prefix": "Microsoft.Windows/Include",
+		"prefix": ["include", "Microsoft.Windows/Include"],
 		"body": [
 			"{",
 			"\t\"name\": \"$1\",",

@@ -1,0 +1,23 @@
+{
+  "$schema": "../schema/.document.json",
+  "resources": [
+    {
+      "type": "Microsoft.Windows/CSP",
+      "properties": {
+        "name": "./Vendor/MSFT/ApplicationControl",
+        "path": "Policies/{PolicyId}/PolicyInfo/IsBasePolicy",
+        "schema": {
+          "type": "boolean"
+        }
+      }
+    },
+    {
+      "name": "",
+      "type": "Microsoft.Windows/CSP",
+      "properties": {
+        "name": "./Vendor/MSFT/Cool",
+        "path": "DoSomethingAmazing"
+      }
+    }
+  ]
+}

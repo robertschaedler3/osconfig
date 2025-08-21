@@ -89,48 +89,13 @@
           "const": "Microsoft.Windows/CSP"
         },
         "properties": {
-          "type": "object",
-          "properties": {
-            "name": {
-              "type": "string"
-            },
-            "path": {
-              "oneOf": [
-                {
-                  "type": "string"
-                },
-                {
-                  "type": "object",
-                  "properties": {
-                    "get": {
-                      "type": "string"
-                    },
-                    "set": {
-                      "type": "string"
-                    }
-                  },
-                  "required": [
-                    "get",
-                    "set"
-                  ]
-                }
-              ]
-            },
-            "type": {
-              "enum": [
-                "string",
-                "boolean",
-                "integer",
-                "array"
-              ]
-            }
-          },
-          "required": [
-            "name",
-            "path",
-            "type"
-          ]
-        }
+          "$ref": "csp/.schema.json"
+        },
+        "required": [
+          "name",
+          "path",
+          "schema"
+        ]
       }
     },
     "registry": {

@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/microsoft/osconfig/refs/heads/main/schema/.document.json",
+  "$schema": "https://aka.ms/osconfig/document/schema",
   "resources": [
     {
       "type": "Microsoft.OSConfig/Audit",
