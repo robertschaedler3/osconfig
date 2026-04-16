@@ -54,3 +54,12 @@ type: File
 properties:
   path: "/tmp/example.txt"
 ```
+
+### Delete a file
+
+```yaml
+type: File
+properties:
+  path: "/tmp/example.txt"
+  exists: false
+```
